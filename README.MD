@@ -7,3 +7,5 @@ Tiny 512-byte bootloader + 64-bit kernel that boots from a floppy and prints
 ```bash
 ./build.sh
 ./run.sh
+
+![alt text](image.png)
